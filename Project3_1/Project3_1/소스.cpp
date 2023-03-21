@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 using namespace std;
 
@@ -26,4 +27,4 @@ int main()
     {
         cout << *(ptr + i) << "";
     }
-}
+}*/

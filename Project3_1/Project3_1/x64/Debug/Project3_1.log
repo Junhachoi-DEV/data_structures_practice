@@ -1,2 +1,3 @@
-﻿  소스.cpp
+﻿  소스1.cpp
+E:\2023 1학기\데이터 구조\data_structures_practice\Project3_1\Project3_1\소스1.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   Project3_1.vcxproj -> E:\2023 1학기\데이터 구조\data_structures_practice\Project3_1\x64\Debug\Project3_1.exe

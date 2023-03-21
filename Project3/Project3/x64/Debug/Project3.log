@@ -1,0 +1,10 @@
+﻿  3w_1.cpp
+  3w_2.cpp
+  3w_3.cpp
+F:\2023.1학기\마이크로세스\Project3\Project3\3w_3.cpp(11,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+F:\2023.1학기\마이크로세스\Project3\Project3\3w_3.cpp(23,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+F:\2023.1학기\마이크로세스\Project3\Project3\3w_3.cpp(23,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+F:\2023.1학기\마이크로세스\Project3\Project3\3w_3.cpp(24,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+F:\2023.1학기\마이크로세스\Project3\Project3\3w_3.cpp(24,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+  코드를 생성하고 있습니다...
+  Project3.vcxproj -> F:\2023.1학기\마이크로세스\Project3\x64\Debug\Project3.exe

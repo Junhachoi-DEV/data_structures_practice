@@ -14,8 +14,8 @@ void hanoi(int n, int start, int work, int target) {
 	}
 	else
 	{
-		hanoi(n - 1, start, work, target);
+		hanoi(n - 1, start, target, work);
 		cout << start << "에서" << n << "을" << target << " 로 " << endl;
-		hanoi(n - 1, start, work, target);
+		hanoi(n - 1, work, start, target);
 	}
 }

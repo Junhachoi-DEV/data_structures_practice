@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 using namespace std;
 
@@ -19,3 +20,4 @@ void hanoi(int n, int start, int work, int target) {
 		hanoi(n - 1, work, start, target);
 	}
 }
+*/
